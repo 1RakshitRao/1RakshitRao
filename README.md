@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Rakshit Rao</h1>
 
 <h3 align="center">Blending data engineering, analytics, and AI to build intelligent data systems</h3>
+
 ---
 
 ##  About Me  
 
-I work across data analytics, data engineering, and machine learning — building systems that take messy data and turn it into something teams can actually use.
+I’m a Data Scientist who builds systems that use data to drive real decisions.
 
-I’ve built pipelines, dashboards, and ML systems that improve decision-making, reduce manual effort, and scale data workflows.
+I’ve worked on machine learning models, real-time analytics pipelines, and data-driven applications that improve efficiency, reduce manual effort, and enable better decision-making. My work spans predictive modeling, NLP, and large-scale data analysis using SQL and Python.
+
+I fit best in roles where I can take problems from raw data to production-ready models and measurable impact.
 
 ---
 
