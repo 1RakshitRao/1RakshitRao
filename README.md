@@ -16,7 +16,7 @@ I fit best in roles where I can take problems from raw data to production-ready 
 
 ##  What I'm Working On  
 
-- NL → SQL systems using LLMs + vector search  
+- Building **Momentum**, a SwiftUI-based ADHD assistant that helps users overcome task paralysis by breaking work into tiny, actionable starting steps using AI.  
 - Scalable data pipelines and analytics platforms  
 - Business-focused dashboards and KPI systems  
 
